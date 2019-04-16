@@ -4,5 +4,6 @@ major online news portals in India. With flexibility to incorporate below filter
 
 1. Date: Custom and Past functions
 2. Keywords: Verbatim/Non-Verbatim
+3. No. of searches
 
 Package used: BS4, Requests, Pandas
